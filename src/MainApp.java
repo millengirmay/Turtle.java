@@ -20,7 +20,6 @@ import java.awt.*;
             double heightSquared = Math.pow(height, 2);
             double hypotenuse = Math.sqrt(widthSquared + heightSquared);
 
-
             turtle.setPenWidth(3);
             turtle.setColor(Color.GREEN);
 

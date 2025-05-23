@@ -1,7 +1,6 @@
 import java.awt.*;
 
 import java.awt.*;
-
     public class MainApp {
         public static void main(String[] args) {
             // This starter code to get you familiar with how

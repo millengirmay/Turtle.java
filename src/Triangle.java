@@ -1,5 +1,4 @@
 import java.awt.*;
-
     public class Triangle extends Shape{
         private int width;
         Triangle(Turtle turtle, int xPosition, int yPosition, String colorName, int borderWidth, int width){

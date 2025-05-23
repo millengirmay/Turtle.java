@@ -213,7 +213,6 @@ import javax.swing.JLabel;
             this.gg.drawImage(img, placement, this);
             this.blit();
         }
-
     }
 
 

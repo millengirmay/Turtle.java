@@ -1,4 +1,3 @@
-
 import java.awt.*;
 
     public class XShape extends Shape{

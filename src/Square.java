@@ -1,5 +1,4 @@
 import java.awt.*;
-
     public class Square extends Shape{
         private int width;
         Square(Turtle turtle, int xPosition, int yPosition, String colorName, int borderWidth, int width){

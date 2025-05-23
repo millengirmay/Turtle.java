@@ -28,9 +28,9 @@ public class Shape implements IDrawable{
         }else if(colorName.equalsIgnoreCase("BLUE")){
             turtle.setColor(Color.BLUE);
         }else if(colorName.equalsIgnoreCase("MAGENTA")){
-            turtle.setcolor(Color.MAGENTA);
+            turtle.setColor(Color.MAGENTA);
         }else if(colorName.equalsIgnoreCase("RED")){
-            turtle.setcolor(color.RED);
+            turtle.setColor(Color.RED);
         }else{
             turtle.setColor(Color.BLACK);
         }

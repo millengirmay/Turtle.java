@@ -450,7 +450,6 @@ import javax.imageio.ImageIO;
             this.cornerGoTo(x + world.centerX, (-y + world.centerY));
         }
 
-
         /**
          * Seconds to pause between each turtle movement
          * @return the seconds currently paused

@@ -469,7 +469,8 @@ import javax.imageio.ImageIO;
 
         private void pause() {
 
-            try { Thread.sleep(this.pause);
+            try {
+                Thread.sleep(this.pause);
             } catch (InterruptedException e) { }
         }
 

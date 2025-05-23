@@ -135,7 +135,6 @@ import javax.swing.JLabel;
         }
 
 
-
         /**
          * Should only called by the Turtle class constructor
          */
